@@ -1,6 +1,6 @@
 class Vehicle {
     String brand;
-    int speed;
+    
 
     void start() {
         System.out.println("Vehicle started");
